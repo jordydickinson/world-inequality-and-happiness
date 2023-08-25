@@ -9,6 +9,7 @@ numpy = "*"
 scipy = "*"
 matplotlib = "*"
 ipykernel = "*"
+nbconvert = "*"
 
 [dev-packages]
 
