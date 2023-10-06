@@ -1,6 +1,6 @@
 # World Inequality Analysis
 
-This is an analysis of the [World Inequality Database](https://wid.world), retrieved for all indicators, all regions, and the year 2022.
+This is an analysis of the [World Inequality Database](https://wid.world), retrieved for all indicators, all regions, and the year 2022, and the [World Happiness Report](https://worldhappiness.report), retrieved for the year 2015.
 
 ## Contributing
 
